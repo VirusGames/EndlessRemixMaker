@@ -11,7 +11,7 @@ You can suggest to add your own snippet of the game in disscussions.
 The programme create a .rhre3 file that requires Rhythm Heaven Remix Editor by chrislo27 to play:
 https://github.com/chrislo27/RhythmHeavenRemixEditor
 
-Endless Remix Maker also uses some sprites from RHRE
+Endless Remix Maker also uses some sprites from RHRE.
 
 
 Rhythm Heaven is a property of Nintendo. Made only on strong love for Rhythm Heaven.
