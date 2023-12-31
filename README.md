@@ -5,7 +5,7 @@ You can add any of Rhythm Heaven rhythm games, endless games and rhythm toys.
 
 Almost all games have at least 2 versions that can appear in the remix.
 
-You can suggest to add your own snippet of the game in disscussions.
+You can suggest to add your own versions of the game in disscussions.
 
 
 The programme create a .rhre3 file that requires Rhythm Heaven Remix Editor by chrislo27 to play:
