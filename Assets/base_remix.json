@@ -1,0 +1,51 @@
+{
+  "version" : "v3.20.6",
+  "databaseVersion" : 138,
+  "playbackStart" : 0.0,
+  "musicStartSec" : 0.0,
+  "trackCount" : 8,
+  "isAutosave" : false,
+  "midiInstruments" : 0,
+  "musicData" : {
+    "present" : true,
+    "filename" : "Endless Remix.ogg",
+    "extension" : "ogg"
+  },
+  "textures" : [ ],
+  "entities" : [ {
+    "type" : "model",
+    "beat" : 8.0,
+    "track" : 1,
+    "width" : 224.0,
+    "height" : 1,
+    "semitone" : 0,
+    "volume" : 65,
+    "datamodel" : "endlessRemixMusic_endlessRemixLong",
+    "isCustom" : true
+  } ],
+  "trackers" : {
+    "tempos" : {
+      "trackers" : [ {
+        "beat" : 0.0,
+        "seconds" : 0.0,
+        "bpm" : 119.0,
+        "width" : 0.0,
+        "swingRatio" : 50,
+        "swingDivision" : 1.0
+      } ]
+    },
+    "musicVolumes" : {
+      "trackers" : [ {
+        "beat" : -1.0,
+        "width" : 0.0,
+        "volume" : 65
+      } ]
+    }
+  },
+  "timeSignatures" : [ {
+    "beat" : 8.0,
+    "divisions" : 16,
+    "beatUnit" : 4,
+    "measure" : 1
+  } ]
+}
